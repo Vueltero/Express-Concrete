@@ -114,7 +114,7 @@ The mod only adds:
 
 Created by [**Vueltero**](https://www.youtube.com/Vueltero).   
 
-The tile uses a vanilla-style visual approach based on Factorio’s existing tile graphics, with a tinted presentation inspired by the Space Concrete style from Spaceblock.
+The tile uses a vanilla-style visual approach based on Factorio’s existing tile graphics, with a tinted presentation inspired by the Space Concrete style from [**Spaceblock**](https://mods.factorio.com/mod/spaceblock).
 
 ## Changelog
 
