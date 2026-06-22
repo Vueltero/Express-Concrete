@@ -112,7 +112,7 @@ The mod only adds:
 
 ## Credits
 
-Created by [Vueltero]([https://example.com](https://www.youtube.com/@Vueltero)).   
+Created by [**Vueltero**](https://www.youtube.com/Vueltero).   
 
 The tile uses a vanilla-style visual approach based on Factorio’s existing tile graphics, with a tinted presentation inspired by the Space Concrete style from Spaceblock.
 
