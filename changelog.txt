@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2026-06-22
+  Features:
+    - Added Express Concrete, a 250% walking-speed tile unlocked by Concrete research.
+    - Recipe outputs 10 tiles and costs more than refined concrete.
