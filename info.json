@@ -1,9 +1,11 @@
 {
   "name": "express-concrete",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "Express Concrete",
   "author": "Vueltero",
   "factorio_version": "2.0",
   "dependencies": ["base >= 2.0"],
-  "description": "Adds Express Concrete: a vanilla-style, high-cost walking tile with 250% walking speed, unlocked by Concrete research."
+  "description": "Adds Express Concrete: a vanilla-style, high-cost walking tile with 250% walking speed, unlocked by Concrete research.",
+  "contact": "https://discord.gg/kAuz5aQ",
+  "source": "https://github.com/Vueltero/Express-Concrete"
 }
